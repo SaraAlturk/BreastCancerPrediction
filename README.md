@@ -23,6 +23,8 @@ The data was preprocessed with feature scaling to ensure that each feature contr
 
 ## First Notebook Overview
 
+[BreastCancerPrediction using Logistic Regression, Support Vector Machine (SVM), and Perceptron Notebook](https://github.com/SaraAlturk/BreastCancerPrediction/blob/53d10ac2392dd637f761543d2a4eca69e1690fa4/1_BCP_Logistic_SVM_Perceptron.ipynb)
+
 This notebook demonstrates the application and comparison of three machine learning models—Logistic Regression, Support Vector Machine (SVM), and Perceptron—on the Breast Cancer Prediction task. 
 
 The goal is to classify breast cancer as either Malignant or Benign based on a range of features derived from cell nucleus measurements.
